@@ -1,7 +1,7 @@
 {
   "name": "SHADOW-MD",
   "version": "1.5.0",
-  "description": "A WhatsApp bot created by Lakshan",
+  "description": "A WhatsApp bot created by Hasiii",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHADOW-MD",
